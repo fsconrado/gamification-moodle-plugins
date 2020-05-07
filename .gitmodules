@@ -1,3 +1,12 @@
 [submodule "mdl_block_points"]
 	path = mdl_block_points
 	url = git@github.com:geiser/mdl_block_points.git
+[submodule "moodle_block_game_leaderboards"]
+	path = moodle_block_game_leaderboards
+	url = git@github.com:geiser/moodle_block_game_leaderboards.git
+[submodule "moodle_block_game_achievements"]
+	path = moodle_block_game_achievements
+	url = git@github.com:geiser/moodle_block_game_achievements.git
+[submodule "moodle_block_game_badges"]
+	path = moodle_block_game_badges
+	url = git@github.com:geiser/moodle_block_game_badges.git
