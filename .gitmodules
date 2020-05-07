@@ -1,0 +1,3 @@
+[submodule "mdl_block_points"]
+	path = mdl_block_points
+	url = git@github.com:geiser/mdl_block_points.git
